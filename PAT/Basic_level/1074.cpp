@@ -1,0 +1,32 @@
+#include <cstring>
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+const int N = 250010;
+typedef long long LL;
+typedef long double LD;
+typedef unsigned long long ULL;
+typedef pair<int, int> PII;
+
+string conversion; 
+
+void solve()
+{
+
+	cin >> conversion;
+	
+
+
+}
+
+int main()
+{
+
+	// int t; scanf("%d", &t);
+	// while (t -- )
+	// {
+		solve();
+	// }
+	return 0;
+}
